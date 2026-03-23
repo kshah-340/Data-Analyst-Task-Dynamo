@@ -1,0 +1,4 @@
+*.xlsx
+*.xls
+__MACOSX/
+.DS_Store
