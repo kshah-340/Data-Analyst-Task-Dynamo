@@ -17,7 +17,7 @@ AI tools (Claude Pro, Google AI Studio) were used to assist primarily with:
 * Feature engineering feedback
 * Visualization refinement
 
-Example prompts are provided in ai_prompts.md
+Example prompts are provided in ai_prompts.md.
 
 
 
