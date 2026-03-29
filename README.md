@@ -28,6 +28,7 @@ AI tools (Claude Pro, Google AI Studio, Copilot) were used to assist primarily w
 * Code structuring and debugging
 * Feature engineering feedback
 * Visualization refinement
+
 All modeling decisions, metric definitions, and core processes were developed independently.
 
 Example prompts are provided in `ai_prompts.md`.
