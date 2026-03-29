@@ -12,7 +12,7 @@ Data: Skillcorner GI | Skillcorner Physical | Wyscout
 ## Requirements
 
 ## AI Usage
-AI tools (Claude Pro, Google AI Studio) were used to assist primarily with:
+AI tools (Claude Pro, Google AI Studio, Copilot) were used to assist primarily with:
 * Code structuring and debugging
 * Feature engineering feedback
 * Visualization refinement
