@@ -14,8 +14,6 @@ Data: Skillcorner GI | Skillcorner Physical | Wyscout
 
 ## Requirements
 
-## Requirements
-
 - Python 3.10+
 - pandas, numpy, matplotlib, mplsoccer
 
