@@ -12,12 +12,6 @@ Data: Skillcorner GI | Skillcorner Physical | Wyscout
 
 ## Repository Structure
 
-├── data/                  # Raw input data (provided CSVs)
-├── notebooks/             # Analysis and modeling workflow
-├── outputs/               # Final tables and visualizations
-├── ai_prompts.md          # Example AI prompts used
-├── README.md
-
 ## Requirements
 
 ## Requirements
