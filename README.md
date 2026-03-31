@@ -84,7 +84,7 @@ houston-dynamo-striker-recruitment/
 ### How to Run
 
 1. Clone the repository  
-2. Place provided CSV files in `/data/raw`:
+2. Data files are not pre-included in the repository. Please place the following CSV files in `/data/raw`:
    - `skillcorner_gi_2024_mls.csv`
    - `skillcorner_physical_2024_mls.csv`
    - `wyscout_2024_mls.csv`
@@ -92,6 +92,7 @@ houston-dynamo-striker-recruitment/
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 4. Run notebooks in order:
     - notebooks/01_eda.ipynb
     - notebooks/02_striker_recruitment_workflow.ipynb
