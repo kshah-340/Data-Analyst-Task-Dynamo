@@ -95,3 +95,7 @@ houston-dynamo-striker-recruitment/
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+4. Run notebooks in order:
+    - notebooks/01_eda.ipynb
+    - notebooks/02_striker_recruitment_workflow.ipynb
+Note: Some Python 3.13 environments may produce compatibility issues with certain packages (e.g., mplsoccer). Python 3.10–3.12 is recommended.
