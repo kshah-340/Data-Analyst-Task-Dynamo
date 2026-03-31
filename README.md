@@ -74,8 +74,6 @@ houston-dynamo-striker-recruitment/
 ├── outputs/  
 │   ├── figures/          # Visualizations used in analysis  
 │   └── tables/           # Final datasets and summaries  
-└── presentation/  
-    └── Kiran_Shah_Houston_Dynamo_Striker_Recruitment.pdf  
     
 ---
 
