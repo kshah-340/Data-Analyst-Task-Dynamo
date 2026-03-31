@@ -66,13 +66,14 @@ houston-dynamo-striker-recruitment/
 ├── requirements.txt  
 ├── ai_prompts.md  
 ├── data/  
-│   ├── raw/              # Place provided CSV files here  
+│   └── raw/              # Place provided CSV files here  
 ├── notebooks/  
 │   ├── 01_eda.ipynb  
 │   └── 02_striker_recruitment_workflow.ipynb  
-├── outputs/  
-│   ├── figures/          # Visualizations used in analysis  
-│   └── tables/           # Final datasets and summaries  
+├── outputs/              # Key recruitment visuals
+│   ├── athleticism_vs_movement_scatter_final.png
+│   ├── radar_grid_final.png
+│   └── rossi_pypizza_final.png
     
 ---
 
