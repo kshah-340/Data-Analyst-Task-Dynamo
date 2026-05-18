@@ -66,7 +66,7 @@ houston-dynamo-striker-recruitment/
 ├── requirements.txt  
 ├── ai_prompts.md  
 ├── data/  
-│   └── raw/              # Place provided CSV files here  
+│   └── raw/              # data files omitted at this time
 ├── notebooks/  
 │   ├── 01_eda.ipynb  
 │   └── 02_striker_recruitment_workflow.ipynb  
